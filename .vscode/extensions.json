@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter",
+        "asciidoctor.asciidoctor-vscode",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
